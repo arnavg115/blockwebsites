@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo python3 unblock.py
+sudo dscacheutil -flushcache 
