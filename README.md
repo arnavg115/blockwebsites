@@ -41,3 +41,5 @@ then using <a href = "https://gist.github.com/ghoneycutt/e531984406b4b86ace687ea
 sudo dscacheutil -flushcache
 ``` 
 to flush your DNS cache once more and it shoud be reset.
+## Eligibility
+<strong>Works only on  linux and unix(MacOs) systems.</strong>
