@@ -21,7 +21,7 @@ enter the website you would like to block. For example, google.com.
 ```
 $ ./blockwebsites google.com
 ```
-This may take a few minutes to actually implement.
+If it does not seem to be working quit your browser and relaunch it. Then the changes should go into place
 ## To unblock websites
 First give the scripts the permision
 ```
